@@ -6,7 +6,6 @@ I love building scalable web applications, modular systems.
 
 I also enjoy crafting maintainable codebases and designing solutions that balance performance, clarity, and extensibility.  
 
----
 
 **🛠 Technologies I Work With**
 
@@ -16,7 +15,6 @@ I also enjoy crafting maintainable codebases and designing solutions that balanc
 - **Testing & Quality:** Jest, React Testing Library, SonarQube
 - **Other:** Git, Unix, Jira, Kafka
 
----
     
 **📫 Connect With Me**
 
