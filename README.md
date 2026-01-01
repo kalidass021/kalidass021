@@ -2,7 +2,7 @@
 
 I'm Kalidass, a full stack engineer based in India.
 
-I love building scalable web applications, modular systems. 
+I love building sleek, scalable, and user-friendly web applications.
 
 I also enjoy crafting maintainable codebases and designing solutions that balance performance, clarity, and extensibility.  
 
@@ -25,3 +25,4 @@ I also enjoy crafting maintainable codebases and designing solutions that balanc
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
+
