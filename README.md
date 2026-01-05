@@ -7,7 +7,7 @@ I love building sleek, scalable, and user-friendly web applications.
 I also enjoy crafting maintainable codebases and designing solutions that balance performance, clarity, and extensibility.  
 
 
-**🛠 Technologies I Work With**
+**Technologies I Work With 🛠**
 
 - **Frontend:** React.js, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB  
@@ -16,7 +16,7 @@ I also enjoy crafting maintainable codebases and designing solutions that balanc
 - **Other:** Git, Unix, Jira, Kafka
 
     
-**📫 Connect With Me**
+**Connect With Me 📫**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kalidassboopathi/)  
 - 🌐 [Portfolio](https://kalidass.vercel.app/)  
@@ -25,5 +25,6 @@ I also enjoy crafting maintainable codebases and designing solutions that balanc
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
+
 
 
